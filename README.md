@@ -2,4 +2,3 @@
 That
 is
 a
-sentence
