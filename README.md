@@ -1,5 +1,5 @@
 # merge-demo
 That
 is
-a 
+a
 sentence
