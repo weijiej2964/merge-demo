@@ -1,2 +1,5 @@
 # merge-demo
-This is a sentence
+That
+is
+a 
+sentence
